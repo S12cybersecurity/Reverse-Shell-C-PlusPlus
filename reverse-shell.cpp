@@ -5,7 +5,6 @@ https://cocomelonc.github.io/tutorial/2021/09/15/simple-rev-c-1.html
 */
 #include <winsock2.h>
 #include <stdio.h>
-#pragma comment(lib, "w2_32")
 
 WSADATA wsaData;
 SOCKET wSock;
